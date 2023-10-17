@@ -1,2 +1,2 @@
 # Pyhton
-Python
+python codes learned from e-learning platform
